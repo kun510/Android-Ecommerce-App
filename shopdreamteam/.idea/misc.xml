@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/drawable/drawable_redwith_gradient.xml" value="0.1" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/drawable/ic_media_24.xml" value="0.176" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/layout/activity_dangky.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/layout/activity_dangnhap.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/layout/activity_dienthoai.xml" value="0.2" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/layout/activity_dienthoai2.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/layout/activity_laptop.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/layout/activity_laptop2.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/layout/activity_main.xml" value="0.2604166666666667" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/layout/activity_main2.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/layout/activity_trangchu.xml" value="0.152" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/layout/item.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/layout/item_phone.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/shopdreamteam/app/src/main/res/layout/item_product.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

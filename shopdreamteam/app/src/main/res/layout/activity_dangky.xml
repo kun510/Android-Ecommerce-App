@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dangky">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:textSize="10pt"
+        android:textColor="@color/red"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_marginTop="10px"
+        android:id="@+id/titledky"
+
+        android:text="Welcome to Register" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="218dp"
+        app:srcCompat="@drawable/z3494220489690_61fe991e80249978dc624a9480e43465" />
+
+    <TextView
+        android:id="@+id/Textfullname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15px"
+        android:text="Fullname" />
+
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/fullname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="15px" />
+
+    <TextView
+        android:id="@+id/Textusername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15px"
+        android:text="Username" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="15px" />
+    <TextView
+        android:id="@+id/Textemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15px"
+        android:text="Email" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="15px" />
+
+    <TextView
+        android:id="@+id/textPass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15px"
+        android:text="Password" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/Password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:paddingLeft="15px" />
+    <!--        <TextView-->
+    <!--            android:id="@+id/confimpass"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:paddingLeft="15px"-->
+    <!--            android:text="Comfim Password" />-->
+
+    <!--        <com.google.android.material.textfield.TextInputEditText-->
+    <!--            android:id="@+id/confimpassword"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:ems="10"-->
+    <!--            android:inputType="textPassword"-->
+    <!--            android:paddingLeft="15px" />-->
+
+    <TextView
+        android:id="@+id/cotkroi"
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:gravity="right"
+        android:text="Bạn đã  có tài khoản?"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        />
+    <Button
+        android:textColor="@color/white"
+        android:id="@+id/register"
+        android:layout_width="323dp"
+        android:layout_height="wrap_content"
+        android:text="Đăng Ký"
+        android:textAlignment="center"
+        android:layout_marginLeft="48dp"
+        android:backgroundTint="@color/red"
+        android:textStyle="bold"
+        />
+</LinearLayout>
